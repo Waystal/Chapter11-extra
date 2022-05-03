@@ -16,6 +16,30 @@
       "volume": "2",
       "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/lLFjCHJ/"},
          "last_updated":"1651182720"
+    },
+    "13": {
+      "title": "Then and Now",
+      "volume": "2",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/yIwEsSF/"},
+         "last_updated":"1651598564"
+    },
+    "14": {
+      "title": "True, one of a kind",
+      "volume": "2",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/1L92rMA/"},
+         "last_updated":"1651598564"
+  },
+    "15": {
+      "title": "Beginning of Tragedy (Part 1)",
+      "volume": "2",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/t23geIl/"},
+         "last_updated":"1651598564"
+  },
+    "16": {
+      "title": "Extra",
+      "volume": "2",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/5EFKWo4/"},
+         "last_updated":"1651598564"
     }
    }
 }
